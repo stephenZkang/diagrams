@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:17:12.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="pkTDscwUwhEFcLzF8WQ0" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T03:20:41.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Hq7FlLnjvxIO69mAnO96" version="19.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1896" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -518,8 +518,8 @@
             <mxPoint x="510" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qEo5L5SXi0XtwJs9yO2_-132" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;账户跟菜单、按钮未配置关联时，以角色为主&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;配置关联后，以账户和菜单为主&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;菜单所属按钮全部取消，菜单也取消&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="255" width="300" height="90" as="geometry" />
+        <mxCell id="qEo5L5SXi0XtwJs9yO2_-132" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;账户跟菜单、按钮未配置关联时，以角色为主&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;账户跟菜单、按钮默认关系&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;为账户所属角色跟菜单、按钮的关系&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;配置账户、菜单关联后，以账户跟菜单、按钮为关联为主&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;菜单所属按钮全部取消，菜单也取消&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="250" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
