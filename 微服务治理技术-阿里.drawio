@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T01:38:55.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Cbd6kshwfdIugqoG4_mp" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T01:39:21.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="OF6vMWE-8A35BLX8lgT9" version="20.0.1" type="github">
   <diagram id="oM4as0clGdf_BayAd1rf" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="9E9zUjZPfBJImzR9MCOk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-1" target="9E9zUjZPfBJImzR9MCOk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-1" value="自研微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-1" value="自研微服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9E9zUjZPfBJImzR9MCOk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-2" target="9E9zUjZPfBJImzR9MCOk-4">
@@ -19,7 +19,7 @@
         <mxCell id="9E9zUjZPfBJImzR9MCOk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-2" target="9E9zUjZPfBJImzR9MCOk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-2" value="FAT-SDK模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-2" value="FAT-SDK模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9E9zUjZPfBJImzR9MCOk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-4" target="9E9zUjZPfBJImzR9MCOk-14">
@@ -28,25 +28,25 @@
         <mxCell id="9E9zUjZPfBJImzR9MCOk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-4" target="9E9zUjZPfBJImzR9MCOk-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-4" value="Java Agent技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-4" value="Java Agent技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9E9zUjZPfBJImzR9MCOk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E9zUjZPfBJImzR9MCOk-8" target="9E9zUjZPfBJImzR9MCOk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-8" value="使用SDK进行&lt;br&gt;微服务治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-8" value="使用SDK进行&lt;br&gt;微服务治理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9E9zUjZPfBJImzR9MCOk-10" value="SDK指各种&lt;br&gt;组件的驱动" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-12" value="封装SDK，隔离SDK依赖，解决依赖冲突问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-12" value="封装SDK，隔离SDK依赖，解决依赖冲突问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-14" value="Java Agent技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-14" value="Java Agent技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9E9zUjZPfBJImzR9MCOk-16" value="Service Mesh进行&lt;br&gt;微服务治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9E9zUjZPfBJImzR9MCOk-16" value="Service Mesh进行&lt;br&gt;微服务治理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
