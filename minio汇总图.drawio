@@ -1,68 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T02:27:35.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1nykh5Syvms331Nfqhhw" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T02:36:44.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="wIJ92LRyJIs_ft_JZZE1" version="20.0.1" type="github">
   <diagram id="B0aUDjMEMcQMrFGBh2tU" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-1" target="5ZaRpA1pt5UQ2hP38Ieq-2">
+        <mxCell id="20hMEODcdLOq8SeCK55--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-1" target="20hMEODcdLOq8SeCK55--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-1" value="分部署存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-1" value="分部署存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-2" target="5ZaRpA1pt5UQ2hP38Ieq-4">
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="5ZaRpA1pt5UQ2hP38Ieq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="290" />
-              <mxPoint x="350" y="130" />
+              <mxPoint x="550" y="260" />
+              <mxPoint x="550" y="100" />
+            </Array>
+            <mxPoint x="400" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="5ZaRpA1pt5UQ2hP38Ieq-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="5ZaRpA1pt5UQ2hP38Ieq-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="260" />
+              <mxPoint x="550" y="410" />
+            </Array>
+            <mxPoint x="400" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="5ZaRpA1pt5UQ2hP38Ieq-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="260" />
+              <mxPoint x="550" y="570" />
+            </Array>
+            <mxPoint x="430" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-2" value="实践使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-4" value="分布式部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-6" target="5ZaRpA1pt5UQ2hP38Ieq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-6" value="磁盘容量规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="650" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-8" value="最小建议4台服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="850" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-10" target="5ZaRpA1pt5UQ2hP38Ieq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-10" value="推荐配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-12" value="https://min.io/product/reference-hardware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="850" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-14" value="Reed Solomon算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="650" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20hMEODcdLOq8SeCK55--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20hMEODcdLOq8SeCK55--3" target="5ZaRpA1pt5UQ2hP38Ieq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20hMEODcdLOq8SeCK55--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20hMEODcdLOq8SeCK55--3" target="20hMEODcdLOq8SeCK55--9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="260" />
+              <mxPoint x="230" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-2" target="5ZaRpA1pt5UQ2hP38Ieq-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="20hMEODcdLOq8SeCK55--3" value="minio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-2" target="5ZaRpA1pt5UQ2hP38Ieq-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="290" />
-              <mxPoint x="350" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-2" target="5ZaRpA1pt5UQ2hP38Ieq-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="290" />
-              <mxPoint x="350" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-2" value="minio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-4" value="分布式部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-6" target="5ZaRpA1pt5UQ2hP38Ieq-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-6" value="磁盘容量规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-8" value="最小建议4台服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZaRpA1pt5UQ2hP38Ieq-10" target="5ZaRpA1pt5UQ2hP38Ieq-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-10" value="推荐配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-12" value="https://min.io/product/reference-hardware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="590" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZaRpA1pt5UQ2hP38Ieq-14" value="Reed Solomon算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="20hMEODcdLOq8SeCK55--9" value="特性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
