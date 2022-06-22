@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T10:14:33.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="z0SelM19H9Y3YmJqrcbO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T10:15:02.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_BesWOAmkjlat8Is1QBV" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="QKYt8Ws6Qa6i0QdsFvAu-6" value="分配规则" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKYt8Ws6Qa6i0QdsFvAu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QKYt8Ws6Qa6i0QdsFvAu-8" target="QKYt8Ws6Qa6i0QdsFvAu-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKYt8Ws6Qa6i0QdsFvAu-8" value="发布流程" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
