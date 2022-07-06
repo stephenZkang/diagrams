@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T09:43:30.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_ayHGpXLN5r_QqUJBDTE" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T10:19:20.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="nlRM5hres7WJr_yTRDt6" version="20.0.4" type="github">
   <diagram id="WE8pr7ex4SjiTPsTaB8Y" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="_E_otomTef93y0_jW2qA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-6" target="_E_otomTef93y0_jW2qA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_E_otomTef93y0_jW2qA-6" value="抽象模板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_E_otomTef93y0_jW2qA-6" value="抽象模板" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="885" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_E_otomTef93y0_jW2qA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-8" target="_E_otomTef93y0_jW2qA-12">
@@ -42,7 +42,7 @@
         <mxCell id="_E_otomTef93y0_jW2qA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-8" target="_E_otomTef93y0_jW2qA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_E_otomTef93y0_jW2qA-8" value="事件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_E_otomTef93y0_jW2qA-8" value="事件" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_E_otomTef93y0_jW2qA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-10" target="_E_otomTef93y0_jW2qA-16">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_E_otomTef93y0_jW2qA-10" value="配置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_E_otomTef93y0_jW2qA-10" value="配置" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="885" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_E_otomTef93y0_jW2qA-12" value="启动/停止" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
