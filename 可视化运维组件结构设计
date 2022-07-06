@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T09:40:37.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jO3N3IX1kXdqYPOn6CfN" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T09:42:25.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="qgMH5hR5cI784SEMe1uf" version="20.0.4" type="github">
   <diagram id="WE8pr7ex4SjiTPsTaB8Y" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="_E_otomTef93y0_jW2qA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-4" target="_E_otomTef93y0_jW2qA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_E_otomTef93y0_jW2qA-4" value="组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_E_otomTef93y0_jW2qA-4" value="组件" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="885" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_E_otomTef93y0_jW2qA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_E_otomTef93y0_jW2qA-6" target="_E_otomTef93y0_jW2qA-8">
