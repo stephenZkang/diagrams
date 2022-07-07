@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T02:59:43.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4zPTVl9p4RP4Eek8XvaB" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T03:04:06.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="CHmyhK57Zeb58xQLkNnR" version="20.0.4" type="github">
   <diagram id="aRRUXbsnOLk1vURWF20D" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,18 @@
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-WuMDq7HLlwq9v5gWch-25" value="平台同步到其他系统&lt;br&gt;主审、服审等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-22">
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-26" value="工作流" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="50" y="670" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-27" value="向第三方产品&lt;br&gt;输出工作流服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-26">
+          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-28" value="默认配置任务规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-26">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-29" value="采用flowable技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-26">
           <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
