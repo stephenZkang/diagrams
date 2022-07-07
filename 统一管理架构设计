@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T02:53:16.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Y6dUAKZLvU4MiXtm6Hww" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T02:53:35.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="REMA5T0DQagfzu4a8GDT" version="20.0.4" type="github">
   <diagram id="aRRUXbsnOLk1vURWF20D" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="i-WuMDq7HLlwq9v5gWch-8" value="分布式任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
           <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i-WuMDq7HLlwq9v5gWch-9" value="分布式文件存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-9" value="分布式文件存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
           <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i-WuMDq7HLlwq9v5gWch-10" value="消息通知机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-10" value="消息通知机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
           <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
