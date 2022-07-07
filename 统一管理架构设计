@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T03:22:39.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="sY-qiDoeVaO3hY36cUXI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T03:30:36.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="7DgiFPEfYQDLgnSKHgjF" version="20.0.4" type="github">
   <diagram id="aRRUXbsnOLk1vURWF20D" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,13 +127,13 @@
         <mxCell id="i-WuMDq7HLlwq9v5gWch-72" value="分布式定时任务" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="470" y="960" width="410" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="i-WuMDq7HLlwq9v5gWch-73" value="组件配置/监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-73" value="采用XXL-job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i-WuMDq7HLlwq9v5gWch-74" value="增加产品&lt;br&gt;通过配置增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
           <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i-WuMDq7HLlwq9v5gWch-75" value="统一授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-72">
           <mxGeometry x="70" y="149" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
