@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T02:53:35.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="REMA5T0DQagfzu4a8GDT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T02:56:40.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="tK_G2lR7rPCRHvQ4bOf5" version="20.0.4" type="github">
   <diagram id="aRRUXbsnOLk1vURWF20D" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,18 @@
         </mxCell>
         <mxCell id="i-WuMDq7HLlwq9v5gWch-10" value="消息通知机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-1">
           <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-12" value="统一门户" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-13" value="单点登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-12">
+          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-17" value="接口权限管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-12">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-WuMDq7HLlwq9v5gWch-21" value="账号同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="i-WuMDq7HLlwq9v5gWch-12">
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
