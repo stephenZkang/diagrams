@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T07:35:53.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="MW32mAUeQCvW4CGQewxK" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:36:34.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Dh5OqnYvdnF09gYcs71b" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="平台新部署或已部署、系统新部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="平台新部署或已部署、系统新部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="70" y="35" width="750" height="850" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="统一管理平台" style="swimlane;html=1;startSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="77e6c97f196da883-1" vertex="1">
@@ -421,7 +421,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-399" value="平台新部署或已部署、第三方新部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-399" value="平台新部署或已部署、第三方新部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="68" y="920" width="750" height="850" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-400" value="统一管理平台" style="swimlane;html=1;startSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-399">
@@ -554,7 +554,7 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-438" value="&lt;b&gt;返回MQ信息和配置项&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="138" y="1245" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-439" value="平台新部署、系统已部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#99FF99;" vertex="1" parent="1">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-439" value="平台新部署、系统已部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="838" y="918" width="750" height="850" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-440" value="统一管理平台" style="swimlane;html=1;startSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-439">
@@ -690,7 +690,7 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-479" value="&lt;b&gt;返回MQ信息和配置项&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="908" y="1220" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-480" value="平台已部署、系统已部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#99FF99;" vertex="1" parent="1">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-480" value="平台已部署、系统已部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1598" y="915" width="750" height="850" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-481" value="统一管理平台" style="swimlane;html=1;startSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-480">
