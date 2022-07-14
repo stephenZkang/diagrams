@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T02:46:02.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="r7PwZrq5qJtk4vsJtnbb" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T02:46:53.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="grhV-K8x1JIuOJHykYQq" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-26" value="添加、删除、&lt;br&gt;修改部门、人员&lt;br&gt;主机信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="30" y="390" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-163" value="录入组织&lt;br&gt;结构信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="30" y="260" width="100" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-33" value="接受部门、人员&lt;br&gt;主机信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="390" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-23" value="从平台&lt;br&gt;同步一次&lt;br&gt;全量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="260" width="100" height="60" as="geometry" />
@@ -43,17 +43,17 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="77e6c97f196da883-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="tC51t27Q7l08PMJyTkHT-26" target="tC51t27Q7l08PMJyTkHT-33">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="77e6c97f196da883-1" source="tC51t27Q7l08PMJyTkHT-163" target="tC51t27Q7l08PMJyTkHT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="77e6c97f196da883-1" source="tC51t27Q7l08PMJyTkHT-163" target="tC51t27Q7l08PMJyTkHT-23">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="tC51t27Q7l08PMJyTkHT-26" target="tC51t27Q7l08PMJyTkHT-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;部门同步的唯一&lt;/span&gt;标识&lt;br&gt;为部门code&lt;br&gt;&lt;br&gt;人员同步的唯一标识&lt;br&gt;为人员guid&lt;br&gt;&lt;br&gt;主机同步的唯一标识&lt;br&gt;为主机的guid&lt;br&gt;&lt;br&gt;账号同步的唯一标识&lt;br&gt;为账号名称+部门&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;平台和业务系统都是&lt;br&gt;新部署，以平台的信&lt;br&gt;息为主&lt;br&gt;&lt;br&gt;例如：态势跟打刻、主审&lt;br&gt;服审、融合一&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="340" y="20" width="160" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-38" value="同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="450" width="50" height="30" as="geometry" />
+        <mxCell id="tC51t27Q7l08PMJyTkHT-38" value="推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="500" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-45" value="平台新部署、系统已部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1120" y="40" width="480" height="620" as="geometry" />
@@ -439,7 +439,7 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-157" value="&lt;span style=&quot;background-color: initial;&quot;&gt;部门同步的唯一&lt;/span&gt;标识&lt;br&gt;&lt;br&gt;人员同步的唯一标识&lt;br&gt;&lt;br&gt;主机同步的唯一标识&lt;br&gt;&lt;br&gt;账号同步的唯一标识&lt;br&gt;为账号名称+部门" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-136">
           <mxGeometry x="340" y="20" width="130" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-166" value="&lt;b&gt;同步&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-166" value="&lt;b&gt;推送&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="205" y="325" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
