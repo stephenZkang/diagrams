@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:04:50.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="j6IhDJuKp00110uBtSg3" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T03:05:07.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yzyPx_sgXJdrBK3SEvoS" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -52,10 +52,10 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-186" value="MQ消息中心" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="380" y="20" width="170" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-189" value="增量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-186">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-189" value="增量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-186">
           <mxGeometry x="30" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-190" value="全量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-186">
+        <mxCell id="tC51t27Q7l08PMJyTkHT-190" value="全量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-186">
           <mxGeometry x="30" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-219" value="&lt;b&gt;拉取&lt;br&gt;全量信息&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-186">
