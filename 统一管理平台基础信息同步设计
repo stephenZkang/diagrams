@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T02:27:00.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="WaOe7q0DYgbnaYKbJWvd" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T02:29:41.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="B8MaVtj_duBks42jR6zX" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -87,6 +87,81 @@
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-38" value="同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-45" value="平台已部署、系统新部署" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="480" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-46" value="统一管理平台" style="swimlane;html=1;startSize=20;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-45">
+          <mxGeometry y="20" width="160" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-47" value="录入内部&lt;br&gt;业务系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-46">
+          <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-46" source="tC51t27Q7l08PMJyTkHT-49" target="tC51t27Q7l08PMJyTkHT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-49" value="从业务系统&lt;br&gt;同步一次&lt;br&gt;全量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-46">
+          <mxGeometry x="30" y="165" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-50" value="添加、删除、&lt;br&gt;修改部门、人员&lt;br&gt;主机信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-46">
+          <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-51" value="添加、删除、&lt;br&gt;修改部门、人员&lt;br&gt;主机信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-46">
+          <mxGeometry x="30" y="505" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-52" value="内部业务系统" style="swimlane;html=1;startSize=20;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-45">
+          <mxGeometry x="160" y="20" width="180" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-53" value="注册接受&lt;br&gt;MQ信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-52">
+          <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-52" source="tC51t27Q7l08PMJyTkHT-53" target="tC51t27Q7l08PMJyTkHT-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="80" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-55" value="是否&lt;br&gt;双向同步" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-52">
+          <mxGeometry x="40" y="165" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-56" value="接受部门、人员&lt;br&gt;主机信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-52">
+          <mxGeometry x="40" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-52" source="tC51t27Q7l08PMJyTkHT-58" target="tC51t27Q7l08PMJyTkHT-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-58" value="接受部门、人员&lt;br&gt;主机信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-52">
+          <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-59" value="添加、删除、&lt;br&gt;修改部门、人员&lt;br&gt;主机信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-52">
+          <mxGeometry x="30" y="505" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-53" target="tC51t27Q7l08PMJyTkHT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-55" target="tC51t27Q7l08PMJyTkHT-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-55" target="tC51t27Q7l08PMJyTkHT-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="300" />
+              <mxPoint x="80" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-50" target="tC51t27Q7l08PMJyTkHT-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-59" target="tC51t27Q7l08PMJyTkHT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tC51t27Q7l08PMJyTkHT-45" source="tC51t27Q7l08PMJyTkHT-50" target="tC51t27Q7l08PMJyTkHT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-66" value="&lt;span style=&quot;background-color: initial;&quot;&gt;部门同步的唯一&lt;/span&gt;&lt;br&gt;标识为部门code&lt;br&gt;&lt;br&gt;人员同步的唯一&lt;br&gt;标识为人员guid&lt;br&gt;&lt;br&gt;主机同步的唯一&lt;br&gt;标识为主机的guid&lt;br&gt;&lt;br&gt;账号同步的唯一&lt;br&gt;标识为账号名称+部门" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tC51t27Q7l08PMJyTkHT-45">
+          <mxGeometry x="340" y="20" width="140" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
