@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:05:07.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yzyPx_sgXJdrBK3SEvoS" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T03:05:33.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="OAU1JGy4DcuhTt-vFubf" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -17,13 +17,10 @@
           <mxGeometry x="30" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-192" value="录入内部&lt;br&gt;业务系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="30" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-217" value="&lt;b&gt;注册成功&lt;br&gt;后推送全量信息&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="90" y="230" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="tC51t27Q7l08PMJyTkHT-192">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="tC51t27Q7l08PMJyTkHT-26" target="tC51t27Q7l08PMJyTkHT-189">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +29,7 @@
           <mxGeometry x="200" y="20" width="180" height="600" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-11" value="注册接受&lt;br&gt;MQ信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="30" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="tC51t27Q7l08PMJyTkHT-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -46,8 +43,14 @@
         <mxCell id="tC51t27Q7l08PMJyTkHT-23" value="从平台&lt;br&gt;同步一次&lt;br&gt;全量信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="300" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="77e6c97f196da883-3" source="tC51t27Q7l08PMJyTkHT-213" target="77e6c97f196da883-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-213" value="注册Token" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC51t27Q7l08PMJyTkHT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="tC51t27Q7l08PMJyTkHT-192">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tC51t27Q7l08PMJyTkHT-186" value="MQ消息中心" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="380" y="20" width="170" height="600" as="geometry" />
