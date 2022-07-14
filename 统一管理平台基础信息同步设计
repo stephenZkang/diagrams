@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T07:28:58.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="v8JZylgSBMjMiLthUHeI" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:29:04.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Qhi5aTeoySupF-abhh5Y" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -837,9 +837,6 @@
               <mxPoint x="210" y="602" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tC51t27Q7l08PMJyTkHT-525" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
