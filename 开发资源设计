@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:30:36.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="T9kqIE55GKhkVrahqAA2" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:48:08.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="AUMeYbsAkI1Yw6qW84Ek" version="20.1.1" type="github">
   <diagram id="ozzOyzmKtCaR0Mz5j6_E" name="第 1 页">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,6 +271,9 @@
               <mxPoint x="220" y="880" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-79" value="资源：&lt;br&gt;cpu：共183，已用：156&lt;br&gt;mem：共432G，已用：388G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="80" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
