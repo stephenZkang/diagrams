@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:05:57.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="f4jRcKG7hhrnB496eQ_M" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:11:43.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="EayJXcDJp4--wtPxp0yX" version="20.1.1" type="github">
   <diagram id="ozzOyzmKtCaR0Mz5j6_E" name="第 1 页">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="40" y="530" width="490" height="490" as="geometry" />
         </mxCell>
         <mxCell id="9ljhLc2ReO8wvxDHfqdu-27" value="调研环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-26">
-          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ljhLc2ReO8wvxDHfqdu-28" value="83&lt;br&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot; data-original-title=&quot;实例类型详情：vcpu4_ram4096_disk80&quot; data-content=&quot;&lt;table class=&#39;table table-bordered&#39;&gt;&lt;tr&gt;&lt;th&gt;ID&lt;/th&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;VCPU数量&lt;/th&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;内存&lt;/th&gt;&lt;td&gt;4GB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;大小&lt;/th&gt;&lt;td&gt;80GB&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&quot; data-trigger=&quot;focus&quot; tabindex=&quot;0&quot; rel=&quot;popover&quot; class=&quot;link-popover&quot; id=&quot;flavor_details_c59bdb57-9591-4b2b-831b-6498a49ccfb6&quot; href=&quot;http://10.66.88.81/dashboard/project/instances/#&quot;&gt;vcpu4&lt;br&gt;ram4096_disk80&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-26">
           <mxGeometry x="250" y="100" width="120" height="60" as="geometry" />
@@ -126,6 +126,65 @@
             <Array as="points">
               <mxPoint x="210" y="320" />
               <mxPoint x="210" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-39" value="产品研发" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-40" value="&lt;a style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot; href=&quot;http://10.66.88.81/dashboard/project/instances/5fac51b6-fb2f-43a4-9514-c4f6c218cd08/&quot;&gt;产品-电子文档&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="70" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-43" value="135&lt;br&gt;&lt;a href=&quot;http://10.66.88.81/dashboard/project/instances/#&quot; id=&quot;flavor_details_3b27e5c1-6178-47da-86c8-b6af370c620d&quot; class=&quot;link-popover&quot; rel=&quot;popover&quot; tabindex=&quot;0&quot; data-trigger=&quot;focus&quot; data-content=&quot;&lt;table class=&#39;table table-bordered&#39;&gt;&lt;tr&gt;&lt;th&gt;ID&lt;/th&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;VCPU数量&lt;/th&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;内存&lt;/th&gt;&lt;td&gt;16GB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;大小&lt;/th&gt;&lt;td&gt;300GB&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&quot; data-original-title=&quot;实例类型详情：vcpu8_ram16384_disk300_db_test&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;vcpu8_&lt;br&gt;ram16384_disk300&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="270" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9ljhLc2ReO8wvxDHfqdu-39" source="9ljhLc2ReO8wvxDHfqdu-40" target="9ljhLc2ReO8wvxDHfqdu-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="48" />
+              <mxPoint x="220" y="48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-52" value="&lt;a style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot; href=&quot;http://10.66.88.81/dashboard/project/instances/d91afd1b-ea49-47e8-a1a7-06d35c7db8f9/&quot;&gt;产品-融合一&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-53" value="58&lt;br&gt;&lt;a href=&quot;http://10.66.88.81/dashboard/project/instances/#&quot; id=&quot;flavor_details_3b27e5c1-6178-47da-86c8-b6af370c620d&quot; class=&quot;link-popover&quot; rel=&quot;popover&quot; tabindex=&quot;0&quot; data-trigger=&quot;focus&quot; data-content=&quot;&lt;table class=&#39;table table-bordered&#39;&gt;&lt;tr&gt;&lt;th&gt;ID&lt;/th&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;VCPU数量&lt;/th&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;内存&lt;/th&gt;&lt;td&gt;16GB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;大小&lt;/th&gt;&lt;td&gt;300GB&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&quot; data-original-title=&quot;实例类型详情：vcpu8_ram16384_disk300_db_test&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;vcpu8_&lt;br&gt;ram16384_disk300&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="9ljhLc2ReO8wvxDHfqdu-52" target="9ljhLc2ReO8wvxDHfqdu-53" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="140" />
+              <mxPoint x="220" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-55" value="&lt;a style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot; href=&quot;http://10.66.88.81/dashboard/project/instances/5fac51b6-fb2f-43a4-9514-c4f6c218cd08/&quot;&gt;产品-态势感知&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-56" value="35&lt;br&gt;&lt;a href=&quot;http://10.66.88.81/dashboard/project/instances/#&quot; id=&quot;flavor_details_3b27e5c1-6178-47da-86c8-b6af370c620d&quot; class=&quot;link-popover&quot; rel=&quot;popover&quot; tabindex=&quot;0&quot; data-trigger=&quot;focus&quot; data-content=&quot;&lt;table class=&#39;table table-bordered&#39;&gt;&lt;tr&gt;&lt;th&gt;ID&lt;/th&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;VCPU数量&lt;/th&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;内存&lt;/th&gt;&lt;td&gt;16GB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;大小&lt;/th&gt;&lt;td&gt;300GB&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&quot; data-original-title=&quot;实例类型详情：vcpu8_ram16384_disk300_db_test&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;vcpu8_&lt;br&gt;ram16384_disk300&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="9ljhLc2ReO8wvxDHfqdu-55" target="9ljhLc2ReO8wvxDHfqdu-56" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="230" />
+              <mxPoint x="220" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-58" value="&lt;a style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(42, 100, 150); outline: 0px; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot; href=&quot;http://10.66.88.81/dashboard/project/instances/d87dcfb3-9b94-47cc-9eb1-b364a9387d24/&quot;&gt;产品-安全登录&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-59" value="98&lt;br&gt;&lt;a href=&quot;http://10.66.88.81/dashboard/project/instances/#&quot; id=&quot;flavor_details_3b27e5c1-6178-47da-86c8-b6af370c620d&quot; class=&quot;link-popover&quot; rel=&quot;popover&quot; tabindex=&quot;0&quot; data-trigger=&quot;focus&quot; data-content=&quot;&lt;table class=&#39;table table-bordered&#39;&gt;&lt;tr&gt;&lt;th&gt;ID&lt;/th&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;VCPU数量&lt;/th&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;内存&lt;/th&gt;&lt;td&gt;16GB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;大小&lt;/th&gt;&lt;td&gt;300GB&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&quot; data-original-title=&quot;实例类型详情：vcpu8_ram16384_disk300_db_test&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(66, 139, 202); text-decoration-line: none; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;vcpu8_&lt;br&gt;ram16384_disk300&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ljhLc2ReO8wvxDHfqdu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="9ljhLc2ReO8wvxDHfqdu-58" target="9ljhLc2ReO8wvxDHfqdu-59" parent="9ljhLc2ReO8wvxDHfqdu-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+              <mxPoint x="220" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
