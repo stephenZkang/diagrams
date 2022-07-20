@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T06:42:02.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FgSo3G0FWUz9hJuVA5WL" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:42:48.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="BwjzTaCPJ-rulLkIAW4w" version="20.1.2" type="github">
   <diagram id="a3QL_cVzZp84cnDThzSz" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="xc_Ge14cdRyQEQzqBT1Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xc_Ge14cdRyQEQzqBT1Z-10" source="xc_Ge14cdRyQEQzqBT1Z-6" target="xc_Ge14cdRyQEQzqBT1Z-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xc_Ge14cdRyQEQzqBT1Z-11" value="监控es或数据库&lt;br&gt;所在盘符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
+        <mxCell id="xc_Ge14cdRyQEQzqBT1Z-11" value="监控es或数据库&lt;br&gt;所在盘符" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xc_Ge14cdRyQEQzqBT1Z-13" value="适配各种&lt;br&gt;数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
           <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xc_Ge14cdRyQEQzqBT1Z-15" value="es根据&lt;br&gt;时间快照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
+        <mxCell id="xc_Ge14cdRyQEQzqBT1Z-15" value="es根据&lt;br&gt;时间快照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
           <mxGeometry x="450" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xc_Ge14cdRyQEQzqBT1Z-21" value="监测磁盘情况&lt;br&gt;备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xc_Ge14cdRyQEQzqBT1Z-10">
